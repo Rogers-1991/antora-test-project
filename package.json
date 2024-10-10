@@ -1,0 +1,16 @@
+{
+  "name": "antora-local-content-main",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@antora/cli": "^3.1.9",
+    "@antora/site-generator-default": "^3.1.9"
+  }
+}
