@@ -1,0 +1,3 @@
+[submodule "antora-local-content-main"]
+	path = antora-local-content-main
+	url = https://github.com/Rogers-1991/antora-local-content.git
